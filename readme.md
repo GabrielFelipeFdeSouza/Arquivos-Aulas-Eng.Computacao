@@ -1,0 +1,1 @@
+Aqui estão alguns arquivos, aulas e materiais complementares e auxiliares que ultilizei durante toda a graduação na UTFPR em eng. computação. A quem quiser fica livre o uso de maneira consciente e autoral.
