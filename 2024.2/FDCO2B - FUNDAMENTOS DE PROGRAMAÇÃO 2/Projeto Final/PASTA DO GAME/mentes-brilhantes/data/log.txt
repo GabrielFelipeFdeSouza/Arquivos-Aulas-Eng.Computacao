@@ -1,0 +1,21 @@
+[20:07:24]GAME: Jogo iniciado com sucesso!
+[20:07:24]GAME: Lendo dados do arquivo binário!
+[20:07:24]GAME: Lendo cartas para o modo de jogo multiplayer
+[20:07:24]GAME: QUANTIDADE DE CARTAS LIDAS DO VETOR PRINCIPAL: 32
+[20:07:24]GAME: Iniciando as configurações padrões de tela, e setando as configurações gerais.
+[20:07:25]GAME: Iniciando as configurações de som e musica.
+[20:07:25]GAME: Abrindo a tela de MENU.
+[20:08:07]GAME: Abrindo a tela de MULTIPLAYER.
+[20:08:08]GAME: Conectando ao servidor do jogo...
+[20:08:12]GAME: Falha na conexao ao servidor.
+[20:08:13]GAME: Abrindo a tela de MENU.
+[20:08:14]GAME: Abrindo a tela de JOGAR SINGLEPLAYER.
+[20:08:24]GAME: Abrindo a tela de MENU.
+[20:08:25]GAME: Abrindo a tela de GERENCIAR CARTAS.
+[20:08:31]GAME: Abrindo a tela de MENU.
+[20:08:31]GAME: Abrindo a tela de CREDITOS.
+[20:08:33]GAME: Abrindo a tela de MENU.
+[20:08:36]GAME: Iniciando SAIDA DO GAME.
+[20:08:36]GAME: Dados salvos no arquivo binário.
+[20:08:36]GAME: Saiu na tela: 10 | Estado de tela estava em: 2.
+[20:08:36]GAME: Quantidade de cartas salvas: 32, tamanho do arquivo binario em bytes: 10756
