@@ -1,0 +1,9 @@
+https://ossegredosdainformatica.blogspot.com/2012/10/memorias-de-computador-tipos-funcoes.html - fluxograma mem
+
+Livros basicos da disciplina!
+
+https://blog.formacao.dev/o-que-e-hierarquia-de-memoria/ - piramide
+
+https://memoriavirtualunisc.blogspot.com/p/tipos-de-memoria-virtual.html - memoria paginação
+
+https://www.quora.com/What-is-the-difference-between-SRAM-and-DRAM - DRAMS x SRAMS
